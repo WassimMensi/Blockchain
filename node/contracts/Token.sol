@@ -7,7 +7,7 @@ import "hardhat/console.sol";
 // la ligne ce dessous declare un contrat Token
 contract Token {
     string public name = "Wassim Token";
-    string public symbol = "WM";
+    string public symbol = "WSS";
 
     // la ligne ci dessous declare une variable de type uint256
     uint256 public totalSupply = 1000000;

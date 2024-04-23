@@ -25,3 +25,16 @@ Une blockchain est une base de donéées distribuée et sécurisée. Elle est pa
 
 # Retour à mon cours
 jeton fongible = jeton qui peut être divisé en plusieurs parties
+
+ERC-20 c'est le standard pour les jetons fongibles sur la blockchain Ethereum. Il permert de créer qui peuvent être echangés, transférés et stockés de manière standardisée.
+
+Voici les méthodes de base d'un contrat ERC-20 :
+function totalSupply() public view returns (uint256);
+function balanceOf(address account) public view returns (uint256);
+function transfer(address recipient, uint256 amount) public returns (bool);
+function allowance(address owner, address spender) public view returns (uint256);
+function approve(address spender, uint256 amount) public returns (bool);
+function transferFrom(address sender, address recipient, uint256 amount) public returns (bool);
+
+Pour créer un token ERC-20 on peut utiliser OpenZeppelin. OpenZeppelin est une bibliothèque de smart contrats open-source qui permet de créer des smart contrats sécurisés et évolutifs.
+
