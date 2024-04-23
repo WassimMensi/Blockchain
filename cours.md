@@ -23,4 +23,5 @@ créer proj react qui utilise ethersjs pour interagir avec contrat créer
 # Cours de Quentino
 Une blockchain est une base de donéées distribuée et sécurisée. Elle est partagée par tous les noeuds du réseau et contient l'historique de toutes les transactions réalisées depuis sa création. Chaque noeud du réseau possède une copie de la blockchain. lorsqu'une transaction est enregistrée au sein de la blockchain, elle ne peut plus être modifiée. Il n'existe pas d'autorité unique de contrôle sur la base de données. Cette derniere est répliquée sur tous les noeuds d'un réseau peer to peer. Ce qu'on peut stocker dans une blockchain est limité par la taille des blocs et la taille des transactions, en revanche on peut stocker n'importe quel type de données (monnaies, code executable, medias...).
 
+# Retour à mon cours
 jeton fongible = jeton qui peut être divisé en plusieurs parties
