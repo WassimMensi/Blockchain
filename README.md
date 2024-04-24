@@ -1,0 +1,6 @@
+# Adresse de mon compte 
+0x8cC38bD6E448fFA17458d5D32c6CAf530A09c998
+## Token basique
+0x472b282541daBB23D3FA9308397E79Afb158d022
+## Token qui hérite de l'ERC20
+0x1cD80Adf77dbE10AF9849aa70E58b471a1C9003a
