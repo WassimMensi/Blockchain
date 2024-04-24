@@ -38,3 +38,4 @@ function transferFrom(address sender, address recipient, uint256 amount) public 
 
 Pour créer un token ERC-20 on peut utiliser OpenZeppelin. OpenZeppelin est une bibliothèque de smart contrats open-source qui permet de créer des smart contrats sécurisés et évolutifs.
 
+Dapp = decentralized application / app classique mais qui utilise la blockchain
